@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesingPattern", "SingletonDesingPattern\SingletonDesingPattern.csproj", "{1D7C2B45-C4CE-4693-94E3-96183243BFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesingPatternExample_1", "SingletonDesingPatternExample_1\SingletonDesingPatternExample_1.csproj", "{5CF86D70-F496-46E4-B72E-1121FFB4234B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesingPatternExample_1", "SingletonDesingPatternExample_1\SingletonDesingPatternExample_1.csproj", "{5CF86D70-F496-46E4-B72E-1121FFB4234B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPatternAsyncExample", "SingletonDesignPatternAsyncExample\SingletonDesignPatternAsyncExample.csproj", "{29FF4960-634A-4E0C-B5D7-E169BD766B9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5CF86D70-F496-46E4-B72E-1121FFB4234B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF86D70-F496-46E4-B72E-1121FFB4234B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF86D70-F496-46E4-B72E-1121FFB4234B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FF4960-634A-4E0C-B5D7-E169BD766B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF4960-634A-4E0C-B5D7-E169BD766B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF4960-634A-4E0C-B5D7-E169BD766B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF4960-634A-4E0C-B5D7-E169BD766B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
