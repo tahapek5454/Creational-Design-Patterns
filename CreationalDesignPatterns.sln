@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesingPatternExamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesignPatternAsyncExample", "SingletonDesignPatternAsyncExample\SingletonDesignPatternAsyncExample.csproj", "{29FF4960-634A-4E0C-B5D7-E169BD766B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultitonDesignPattern", "MultitonDesignPattern\MultitonDesignPattern.csproj", "{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultitonDesignPattern", "MultitonDesignPattern\MultitonDesignPattern.csproj", "{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{CFEAB21E-208E-4DED-A5C9-DE103E507A96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEAB21E-208E-4DED-A5C9-DE103E507A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEAB21E-208E-4DED-A5C9-DE103E507A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEAB21E-208E-4DED-A5C9-DE103E507A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEAB21E-208E-4DED-A5C9-DE103E507A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
