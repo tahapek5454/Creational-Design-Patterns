@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesignPatternAsync
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultitonDesignPattern", "MultitonDesignPattern\MultitonDesignPattern.csproj", "{FC189DFC-CFCF-4B2B-8D63-D6A3417BB4B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{CFEAB21E-208E-4DED-A5C9-DE103E507A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{CFEAB21E-208E-4DED-A5C9-DE103E507A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{CA1A721D-4E5E-4E6F-8A4D-09F8497F9B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{CA1A721D-4E5E-4E6F-8A4D-09F8497F9B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDesignPatternExample_1", "FactoryMethodDesignPatternExample_1\FactoryMethodDesignPatternExample_1.csproj", "{54E76525-7771-4E20-9158-5A12934A73D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CA1A721D-4E5E-4E6F-8A4D-09F8497F9B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA1A721D-4E5E-4E6F-8A4D-09F8497F9B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA1A721D-4E5E-4E6F-8A4D-09F8497F9B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E76525-7771-4E20-9158-5A12934A73D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E76525-7771-4E20-9158-5A12934A73D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E76525-7771-4E20-9158-5A12934A73D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E76525-7771-4E20-9158-5A12934A73D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
