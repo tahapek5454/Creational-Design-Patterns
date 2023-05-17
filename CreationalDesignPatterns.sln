@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeDesignPattern", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectPoolDesignPattern", "ObjectPoolDesignPattern\ObjectPoolDesignPattern.csproj", "{418804D7-97D8-4093-90BA-4A0066379A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectPoolDesignPatternExample_1", "ObjectPoolDesignPatternExample_1\ObjectPoolDesignPatternExample_1.csproj", "{F43CEC57-696A-4E51-9F47-C4BF3F46F463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectPoolDesignPatternExample_1", "ObjectPoolDesignPatternExample_1\ObjectPoolDesignPatternExample_1.csproj", "{F43CEC57-696A-4E51-9F47-C4BF3F46F463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectPoolDesignPatternExample_2", "ObjectPoolDesignPatternExample_2\ObjectPoolDesignPatternExample_2.csproj", "{DB2CFF3A-5E50-4C98-A628-EF34D26809B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectPoolDesignPatternExample_2", "ObjectPoolDesignPatternExample_2\ObjectPoolDesignPatternExample_2.csproj", "{DB2CFF3A-5E50-4C98-A628-EF34D26809B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern", "BuilderDesignPattern\BuilderDesignPattern.csproj", "{0EB6A745-EFF1-4812-835D-E83676B54549}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{DB2CFF3A-5E50-4C98-A628-EF34D26809B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2CFF3A-5E50-4C98-A628-EF34D26809B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB2CFF3A-5E50-4C98-A628-EF34D26809B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB6A745-EFF1-4812-835D-E83676B54549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB6A745-EFF1-4812-835D-E83676B54549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB6A745-EFF1-4812-835D-E83676B54549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB6A745-EFF1-4812-835D-E83676B54549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
